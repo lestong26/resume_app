@@ -1,0 +1,61 @@
+ul {
+    padding-left: 1.5rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+/* Remove this line
+img {
+    margin-left: 17.2rem;
+}
+*/
+
+/* Add this new rule to center images */
+.project img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+}
+
+/* ul {
+    padding-left: 1.5rem;
+  }
+
+h1 {
+    text-align:center;
+}
+
+h5 {
+    text-align:center;
+}
+
+img {
+    margin-left: 17.2rem;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
+header {
+    visibility: hidden;
+} */
