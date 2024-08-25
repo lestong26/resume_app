@@ -43,7 +43,7 @@ st.write('''
 col4, col5, col6 = st.columns([2.2,2,2])
 
 # Load the image
-image = Image.open('C:/Users/lestong/Desktop/Portfolio/lester.jpg')
+image = Image.open('images/lester.jpg')
 
 # Display the image in the middle column
 with col5:
@@ -182,7 +182,7 @@ def image_to_base64(image_path):
 projects = [
     {
         "title": "Askwelabs: AI-Powered Chatbot and Study Path Recommendations",
-        "image_path": "C:/Users/lestong/Desktop/Portfolio/askwelabscover.png",
+        "image_path": "images/askwelabscover.png",
         "description": ("Askwelabs is an AI-driven platform offering a Q&A Chatbot that answers common questions "
                         "about Eskwelabs and analyzes resumes to recommend whether users should join a bootcamp or "
                         "pursue self-study. It also features a Study Path Recommendation System that creates "
@@ -193,7 +193,7 @@ projects = [
     },
     {
         "title": "Course Recommender App",
-        "image_path": "C:/Users/lestong/Desktop/Portfolio/coursera_header.png",
+        "image_path": "images/coursera_header.png",
         "description": ("Coursera Plus is a Course Recommender App that makes use of Coursera data to develop a "
                         "machine learning model that can assist you in deciding the perfect online learning course "
                         "fit to your needs. The project was built using the OpenAI API key for the LLM Embedding "
@@ -202,7 +202,7 @@ projects = [
     },
     {
         "title": "Reddit AITA Predictor",
-        "image_path": "C:/Users/lestong/Desktop/Portfolio/Intro_Objective.png",
+        "image_path": "images/Intro_Objective.png",
         "description": ("Developed an innovative AI-driven system that analyzes complex social situations and provides ethical judgments with remarkable accuracy. This project showcases advanced machine learning techniques and demonstrates the ability to tackle real-world challenges using Natural Language Processing (NLP) and Large Language Models (LLMs). "
                         "Technical Highlights: "
 
@@ -213,13 +213,13 @@ projects = [
     },
     {
         "title": "Self-Accident Detection App: Leveraging Machine Learning to Predict and Prevent Self-Accidents",
-        "image_path": "C:/Users/lestong/Desktop/Portfolio/MLDetection.png",
+        "image_path": "images/MLDetection.png",
         "description": ("The goal of this project is to enhance road safety by applying machine learning techniques to predict and prevent self-accidents. This approach highlights the challenges and proposes solutions derived from predictive models, contributing to safer driving conditions."),
         "link": "https://mltrafficsafety-cmcova.streamlit.app/"
     },
     {
         "title": "Hello, Risk, Goodbye",
-        "image_path": "C:/Users/lestong/Desktop/Portfolio/adobo_front.png",
+        "image_path": "images/adobo_front.png",
         "description": ("Churn Risk Profiling for Cost Optimization: Developed a predictive customer segmentation model to identify and mitigate churn risks, enabling strategic cost savings."
                         ),
         "link": "https://eskwelabssprint1-cmcova.streamlit.app/"
