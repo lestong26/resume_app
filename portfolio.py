@@ -313,7 +313,7 @@ for idx, project in enumerate(projects):
             st.markdown('</div>', unsafe_allow_html=True)
 
 #####################
-def txt4(a, b, c=''):
+def txt5(a, b, c=''):
     col1, col2, col3 = st.columns([1,2,1])
     with col1:
         st.markdown(a)
@@ -333,13 +333,13 @@ def proficiency_emoji(level):
 st.markdown('''
 ## Skills
 ''')
-txt4('Programming', '`Python`, `C++`, `Linux`', f"{proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')}")
-txt4('Data processing/wrangling', '`SQL`, `pandas`, `numpy`', f"{proficiency_emoji('Advanced')} {proficiency_emoji('Advanced')} {proficiency_emoji('Advanced')}")
-txt4('Data visualization', '`matplotlib`, `seaborn`, `plotly`', f"{proficiency_emoji('Advanced')} {proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')}")
-txt4('Machine Learning', '`scikit-learn`, `NLP`, `RAG`', f"{proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')}")
-txt4('Deep Learning', '`Generative AI`', f"{proficiency_emoji('beginner')}")
-txt4('Web development', '`HTML`, `CSS`', f"{proficiency_emoji('Intermediate')} {proficiency_emoji('beginner')}")
-txt4('Model deployment', '`streamlit`', f"{proficiency_emoji('Intermediate')}")
+txt5('Programming', '`Python`, `C++`, `Linux`', f"{proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')}")
+txt5('Data processing/wrangling', '`SQL`, `pandas`, `numpy`', f"{proficiency_emoji('Advanced')} {proficiency_emoji('Advanced')} {proficiency_emoji('Advanced')}")
+txt5('Data visualization', '`matplotlib`, `seaborn`, `plotly`', f"{proficiency_emoji('Advanced')} {proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')}")
+txt5('Machine Learning', '`scikit-learn`, `NLP`, `RAG`', f"{proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')} {proficiency_emoji('Intermediate')}")
+txt5('Deep Learning', '`Generative AI`', f"{proficiency_emoji('beginner')}")
+txt5('Web development', '`HTML`, `CSS`', f"{proficiency_emoji('Intermediate')} {proficiency_emoji('beginner')}")
+txt5('Model deployment', '`streamlit`', f"{proficiency_emoji('Intermediate')}")
 
 #####################
 st.markdown('''
