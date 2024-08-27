@@ -130,6 +130,25 @@ txt('**Bachelors of Science** (Electronics and Communications Engineering), *Ate
 st.markdown('''
 ''')
 
+st.markdown('''
+## Certications and Licenses
+''')
+
+txt('**Data Science Fellowship Cohort 13** (Data Science Bootcamp), *Eskwelabs*, Philippines',
+'May 2024-August 2024')
+st.markdown('''
+''')
+
+txt('**Getting Grounded on Analytics** (Data Analytics), *Development Academy of the Philippines*, Philippines',
+'2020')
+st.markdown('''
+''')
+
+txt('**Licensed Electronics Engineer**, *Professional Regulation Commission*, Philippines',
+'2017-Present')
+st.markdown('''
+''')
+
 #####################
 st.markdown('''
 ## Work Experience
