@@ -139,7 +139,7 @@ txt('**Associate Data Analyst in SQL**, (DataCamp Career Track) *DataCamp*, Phil
 st.markdown('''
 ''')
 
-txt('**Neural Networks and Deep Learning**, (Coursera Certification) *Coursera*, Philippines'
+txt('**Neural Networks and Deep Learning**, (Coursera Certification) *Coursera*, Philippines',
 'September 2024-September 2024')
 st.markdown('''
 ''')
