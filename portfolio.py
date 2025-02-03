@@ -133,6 +133,15 @@ st.markdown('''
 st.markdown('''
 ## Certications and Licenses
 ''')
+txt('**Associate Data Analyst in SQL**, *DataCamp*,
+'November 2024-February 2025')
+st.markdown('''
+''')
+
+txt('**Neural Networks and Deep Learning**, *Coursera*,
+'September 2024-September 2024')
+st.markdown('''
+''')
 
 txt('**Data Science Fellowship Cohort 13** (Data Science Bootcamp), *Eskwelabs*, Philippines',
 'May 2024-August 2024')
@@ -199,6 +208,17 @@ def image_to_base64(image_path):
 
 # Project details: paths and descriptions
 projects = [
+    {
+        "title": "BPI: Bridging Potential and Investment Through Machine Learning",
+        "image_path": "images/BPI.png",
+        "description": ("This is our project that my team and I secured first place in the BPI DATA Wave Hackathon "
+                        " with an innovative machine learning solution that revolutionizes loan assessment for MSMEs (Micro, Small, and Medium Enterprises). "
+                        "This model incorporates non-traditional data points beyond standard financial metrics, enabling more comprehensive and equitable credit evaluation. "
+                        "By aligning with the hackathon's mission of expanding financial inclusion, "
+                        "our solution helps create fairer lending opportunities for small businesses that have "
+                        "historically faced barriers in accessing traditional financing. "
+        "link": "https://msme-loan-prediction.streamlit.app//"
+    },
     {
         "title": "Askwelabs: AI-Powered Chatbot and Study Path Recommendations",
         "image_path": "images/askwelabscover.png",
@@ -377,5 +397,6 @@ st.markdown('''
 ## Social Media
 ''')
 txt2('LinkedIn', 'https://www.linkedin.com/in/carlos-lester-covarrubias-ii-ece-6b235112b/')
+txt2('DataCamp', 'https://www.datacamp.com/portfolio/clfinancialxxvi')
 txt2('GitHub', 'https://github.com/lestong26')
 txt2('Email', 'clfinancialxxvi@gmail.com')
