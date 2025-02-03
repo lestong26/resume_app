@@ -133,12 +133,12 @@ st.markdown('''
 st.markdown('''
 ## Certications and Licenses
 ''')
-txt('**Associate Data Analyst in SQL**, *DataCamp*,
+txt('**Associate Data Analyst in SQL**, (DataCamp Career Track) *DataCamp*, Philippines',
 'November 2024-February 2025')
 st.markdown('''
 ''')
 
-txt('**Neural Networks and Deep Learning**, *Coursera*,
+txt('**Neural Networks and Deep Learning**, *Coursera*, Philippines'
 'September 2024-September 2024')
 st.markdown('''
 ''')
