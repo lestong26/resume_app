@@ -216,8 +216,8 @@ projects = [
                         "This model incorporates non-traditional data points beyond standard financial metrics, enabling more comprehensive and equitable credit evaluation. "
                         "By aligning with the hackathon's mission of expanding financial inclusion, "
                         "our solution helps create fairer lending opportunities for small businesses that have "
-                        "historically faced barriers in accessing traditional financing. "
-        "link": "https://msme-loan-prediction.streamlit.app//"
+                        "historically faced barriers in accessing traditional financing. "),
+        "link": "https://msme-loan-prediction.streamlit.app/"
     },
     {
         "title": "Askwelabs: AI-Powered Chatbot and Study Path Recommendations",
