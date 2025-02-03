@@ -51,8 +51,9 @@ with col5:
 st.markdown('## Summary', unsafe_allow_html=True)
 
 st.info('''
-- Licensed Electronics Engineer transitioning to data science, backed by a 15-week intensive Data Science Bootcamp at Eskwelabs. Completed five diverse projects—three in Natural Language Processing (NLP) with Large Language Models (LLMs) utilizing LangChain and Retrieval-Augmented Generation (RAG), and two in Machine Learning.
+- Licensed Electronics Engineer with hands-on experience in AI/ML development. Won 1st Place in BPI DATA Wave 2024 Hackathon (ML Track). Completed intensive Eskwelabs’ Data Science Fellowship with five successful projects including NLP solutions, GenAI, and end-to-end ML applications.
 - Effective communicator with a strong background in business partner collaboration at my current company and startup pitching from independent projects. Streamlined processes in company projects and successfully completed multiple collaborative projects during Eskwelabs' 15-week intensive bootcamp.
+- Seeking Data Analyst/Scientist role to drive business value through data-driven solutions.
 ''')
 
 #####################
@@ -138,7 +139,7 @@ txt('**Associate Data Analyst in SQL**, (DataCamp Career Track) *DataCamp*, Phil
 st.markdown('''
 ''')
 
-txt('**Neural Networks and Deep Learning**, *Coursera*, Philippines'
+txt('**Neural Networks and Deep Learning**, (Coursera Certification) *Coursera*, Philippines'
 'September 2024-September 2024')
 st.markdown('''
 ''')
